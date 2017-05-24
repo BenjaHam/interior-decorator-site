@@ -1,7 +1,22 @@
-.column{
+.column1{
 
   width: 300px;
   float: left;
+  background-color: blue;
+}
+
+.column2{
+
+  width: 300px;
+  float: left;
+  background-color: orange;
+}
+
+.column3{
+
+  width: 300px;
+  float: left;
+  background-color: red;
 }
 
 
@@ -9,7 +24,9 @@ img{
 
   height: 300px;
   width: 300px;
-  border: 40px solid pink;
+  border: 40px solid green;
+  margin: 12px;
+
 }
 
 body{
